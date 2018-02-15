@@ -1,6 +1,7 @@
 # kupiuru_skaicius
 
 Aprašyta funkcija grąžina minimalų kupiūrų skaičių.
+
 Tam naudojamas ciklas foreach bei funkcijos floor ir fmod.
 
 Kiekvienos ciklo iteracijos metu tikrinama ar pinigų suma keitimui yra dali iš kupiūros nominalo reikšmės. Jos imamos paeiliui nuo didžiausios iki mažiausios.
