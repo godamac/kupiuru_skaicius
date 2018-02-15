@@ -2,7 +2,7 @@
 
 /* Minimalaus Kupiuru Skaiciaus Algoritmas */
 
-	function msk($psk) {
+	function msk($psk) { //psk - pinigu suma keitimui
 		
 		$kupiuros = array(500, 200, 100, 50, 20, 10, 5, 1);
 		rsort($kupiuros);
