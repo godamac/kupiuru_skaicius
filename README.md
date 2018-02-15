@@ -4,7 +4,7 @@ Aprašyta funkcija grąžina minimalų kupiūrų skaičių.
 
 Tam naudojamas ciklas foreach bei funkcijos floor ir fmod.
 
-Kiekvienos ciklo iteracijos metu tikrinama ar pinigų suma keitimui yra dali iš kupiūros nominalo reikšmės. Jos imamos paeiliui nuo didžiausios iki mažiausios iš kupiūrų nominalo masyvo.
+Kiekvienos ciklo iteracijos metu tikrinama ar pinigų suma keitimui yra dali iš kupiūros nominalo reikšmės. Jos imamos paeiliui pradedant nuo didžiausios iš kupiūrų nominalo masyvo.
 
 Jeigu taip - prie minimalaus kupiūrų skaičiaus pridedama sveikoji rezultato dalis, o pinigų suma keitimui prilyginama likusiam likučiui.
 
